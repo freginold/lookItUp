@@ -12,6 +12,18 @@ To use the bookmarklet, select the text that you want to look up so it appears h
 
 If you prefer to use a search engine othe than Google, you can modify the code by changing the Google URL to another search engine website.  Note that you'll probably also have to change the format of the search query that follows the web address (i.e. for Google it's `?gws_rd=ssl#safe=active&q=`) but you can find that information easily by doing a sample search from the search engine you want to use.
 
+## Tested successfully on
+
+***Desktop browsers:***
+- Internet Explorer 11 / Windows 7
+- Opera 44 / Windows 7
+- Chrome 56 / Chrome OS
+
+***Mobile browsers:***
+- Safari 10 / iOS 10.3
+- Android Browser 10 / Android 5.1
+
 ## Limitations
 
-This bookmarklet won't work if clicked from an "empty" web page (such as the "about:blank" page that some browsers start at).
+- This bookmarklet won't work if run from an "empty" web page (such as the "about:blank" page that some browsers start at).
+- It won't work in Firefox for Android 52 or Opera Mini 23 (Android 5.1) but both of those mobile browsers have a search button in the upper right corner (with a magnifying glass icon) that you can use to do a web search on highlighted text.
