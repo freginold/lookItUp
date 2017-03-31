@@ -1,6 +1,6 @@
 # lookItUp
 
-This small bit of JavaScript can be used as a bookmarklet to quickly Google a term, phrase, or any other selected text from your web browser.
+This small bit of JavaScript can be used as a bookmarklet to quickly Google a term, phrase, or any other selected text from any web site.
 
 ## Setup
 
