@@ -15,15 +15,15 @@ If you prefer to use a search engine othe than Google, you can modify the code b
 ## Tested successfully on
 
 ***Desktop browsers:***
-- Internet Explorer 11 / Windows 7
-- Opera 44 / Windows 7
+- Internet Explorer 11 / Windows
+- Opera 44 / Windows
 - Chrome 56 / Chrome OS
 
 ***Mobile browsers:***
-- Safari 10 / iOS 10.3
-- Android Browser 10 / Android 5.1
+- Safari 10 / iOS
+- Android Browser 10 / Android
 
 ## Limitations
 
 - This bookmarklet won't work if run from an "empty" web page (such as the "about:blank" page that some browsers start at).
-- It won't work in Firefox for Android 52 or Opera Mini 23 (Android 5.1) but both of those mobile browsers have a search button in the upper right corner (with a magnifying glass icon) that you can use to do a web search on highlighted text.
+- On Android devices, the bookmarklet won't work in Firefox for Android 52, Brave 1, or Opera Mini 23, but all three of those mobile browsers offer the same functionality natively with a search button in the upper right corner (magnifying glass icon) that will use selected text as a search query.  The search icon appears when you select or highlight text.
