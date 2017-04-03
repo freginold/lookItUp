@@ -15,16 +15,24 @@ If you prefer to use a search engine othe than Google, you can modify the code b
 ## Tested successfully on
 
 ***Desktop browsers:***
-- Internet Explorer 11 / Windows
-- Opera 44 / Windows
-- Chrome 56 / Chrome OS
+- Internet Explorer 9 | 11 (*Windows*)
+- Opera 44 (*Windows*)
+- Chrome 49 | 56 | 57 (*Windows*)
+- Chrome 56 (*Chrome OS*)
 
 ***Mobile browsers:***
-- Safari 10 / iOS
-- Android Browser 10 / Android
+- Safari 10 (*iOS*)
+- Android Browser 10 (*Android*)
 
 ## Limitations
 
 - This bookmarklet won't work if run from an "empty" web page (such as the "about:blank" page that some browsers start at).
 - The bookmarklet works on many mobile browsers, but the usefulness may be negligible, since mobile browsers typically don't show a bookmark or favorite toolbar.
-- On Android devices, the bookmarklet won't work in Firefox for Android 52, Brave 1, or Opera Mini 23, but all three of those mobile browsers offer the same functionality natively with a search button in the upper right corner (magnifying glass icon) that will use selected text as a search query.  The search icon appears when you select or highlight text.
+- On Android devices, the bookmarklet won't work with the following browsers, but all of these mobile browsers offer the same functionality natively with a search button in the upper right corner (magnifying glass icon) that will use selected text as a search query.  The search icon appears when you select or highlight text.
+    - Firefox for Android 52
+    - Brave 1
+    - Opera Mini 23
+    - Opera 42
+    - Chrome 42 | 56
+    - CM Browser 5 (freezes)
+ 
