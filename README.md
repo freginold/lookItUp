@@ -26,4 +26,5 @@ If you prefer to use a search engine othe than Google, you can modify the code b
 ## Limitations
 
 - This bookmarklet won't work if run from an "empty" web page (such as the "about:blank" page that some browsers start at).
+- The bookmarklet works on many mobile browsers, but the usefulness may be negligible, since mobile browsers typically don't show a bookmark or favorite toolbar.
 - On Android devices, the bookmarklet won't work in Firefox for Android 52, Brave 1, or Opera Mini 23, but all three of those mobile browsers offer the same functionality natively with a search button in the upper right corner (magnifying glass icon) that will use selected text as a search query.  The search icon appears when you select or highlight text.
