@@ -26,14 +26,14 @@ javascript:
 function checkSpaces(textLocal) {
     var tempText = '';
     for (var i = 0; i < textLocal.length; i++) {
-        if (textLocal[i] == ' ') {
+        if (textLocal.slice(i, i + 1) == ' ') {
         tempText = tempText + '+';
         }
-        else if (textLocal[i] == '&') {
+        else if (textLocal.slice(i, i + 1) == '&') {
             tempText = tempText + 'and';
         }
         else {
-            tempText = tempText + textLocal[i];
+            tempText = tempText + textLocal.slice(i, i + 1);
         }
     }
     return tempText;
