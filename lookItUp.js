@@ -30,7 +30,7 @@ function checkSpaces(textLocal) {
         tempText = tempText + '+';
         }
         else if (textLocal.slice(i, i + 1) == '&') {
-            tempText = tempText + 'and';
+            tempText = tempText + '+and+';
         }
         else {
             tempText = tempText + textLocal.slice(i, i + 1);
