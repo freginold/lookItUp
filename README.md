@@ -19,6 +19,7 @@ If you prefer to use a search engine othe than Google, you can modify the code b
 - Opera 44 (*Windows*)
 - Chrome 49 | 56 | 57 (*Windows*)
 - Chrome 56 (*Chrome OS*)
+- Firefox 53 (64-bit) (*Windows*)
 
 ***Mobile browsers:***
 - Safari 10 (*iOS*)
