@@ -20,6 +20,7 @@ If you prefer to use a search engine othe than Google, you can modify the code b
 - Chrome 49 | 56 | 57 (*Windows*)
 - Chrome 56 (*Chrome OS*)
 - Firefox 53 (64-bit) (*Windows*)
+- Brave 0.14.1 (*Windows*)
 
 ***Mobile browsers:***
 - Safari 10 (*iOS*)
